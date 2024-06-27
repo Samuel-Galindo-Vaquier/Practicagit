@@ -65,7 +65,7 @@ Algunas veces desearemos justificar el texto para presentar el texto de una mane
 </p>
 
 ## 4.Texto Enfatizado (BOLD, ITALIC, ITALIC/BOLD y UNDERLINE)
-Tambien es posible resaltar algunas palabras importantes utilizando la estilizacion de **Letras Negritas**, para la que colocaremos dos * antes y depues que la palabra a resaltar, *Letras Cursivas* solo ponemos un * antes y depues de las palabras, ***Letras Cursivas y Negritas*** colocando 3 y por ultimo <ins> texto subrayado <ins> encerrando la frase o palabras entre la etiqueta <ins> y la etiqueta de cierre <ins>.
+Tambien es posible resaltar algunas palabras importantes utilizando la estilizacion de **Letras Negritas**, para la que colocaremos dos * antes y depues que la palabra a resaltar, *Letras Cursivas* solo ponemos un * antes y depues de las palabras, ***Letras Cursivas y Negritas*** colocando 3 y por ultimo <ins>  texto subrayado <ins> encerrando la frase o palabras entre la etiqueta <ins> y la etiqueta de cierre <ins>.
 ## 5.Cuadores de Codigo o Reseña (BLOCKQUOTES)
 Estos elementos son utilizados para resaltar intrucciones especificas para la intalacion, configuuracion y/o inicializacion del proyecto, para mostrar secciones de codigo fuente y se maqueta utilizando el simbolo de mayor que (>) antes del texto.
 
@@ -117,8 +117,12 @@ Estas son utilizadas para redirigir a archivos o secciones dentro o fuera de nue
 **Ejemplo**
 
 Mi buscador favorito es: [GOOGLE](https://www.google.com)
-Estadocumentacion fue creada por **Samuel Galindo Vaquier**
-## 8.Tablas(TABLES)
+
+Esta documentacion fue creada por **Samuel Galindo Vaquier**
+
+<samygalind017@gmail.com>
+
+## 8.Tablas (TABLES)
 Si la documentacion lo requiere podemos presentar informacion en formatos de tablas con filas y columnas, para maquetados podemos utilizar el caracter | para delimitar las filas.
 
 **Ejemplo**
@@ -130,7 +134,7 @@ Si la documentacion lo requiere podemos presentar informacion en formatos de tab
 
 ## 9.Imagenes
 Para la vizualizacion de imagenes debemos cargar los archivos en nuestro repositorio y vincularlo.
-[Shinobu]()
+![Shinobu](https://github.com/Samuel-Galindo-Vaquier/Practicagit/blob/main/Imagenes/Imagen%20de%20WhatsApp%202024-05-29%20a%20las%2021.49.58_7759eef3.jpg?raw=true)
    
 
 
