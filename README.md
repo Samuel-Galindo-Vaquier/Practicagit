@@ -116,7 +116,7 @@ Estas son utilizadas para redirigir a archivos o secciones dentro o fuera de nue
 
 **Ejemplo**
 
-Mi buscador favorito es: [GOOGLE] (https://www.google.com)
+Mi buscador favorito es: [GOOGLE](https://www.google.com)
 Estadocumentacion fue creada por **Samuel Galindo Vaquier**
 ## 8.Tablas(TABLES)
 Si la documentacion lo requiere podemos presentar informacion en formatos de tablas con filas y columnas, para maquetados podemos utilizar el caracter | para delimitar las filas.
@@ -130,7 +130,7 @@ Si la documentacion lo requiere podemos presentar informacion en formatos de tab
 
 ## 9.Imagenes
 Para la vizualizacion de imagenes debemos cargar los archivos en nuestro repositorio y vincularlo.
-
+[Shinobu]()
    
 
 
